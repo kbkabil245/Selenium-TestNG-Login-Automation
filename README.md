@@ -24,8 +24,8 @@ This project automates the **Login Functionality** of a web application to ensur
 ### Project Structure
 ```text
 Selenium-TestNG-Login-Automation
-├── src
-│ ├── main/java/pages # Page Object Classes (LoginPage, Page_Class)
+├── src                                                                                
+│ ├── main/java/pages # Page Object Classes (LoginPage, Page_Class)                     
 │ ├── test/java/tests # Test Scripts (Tests, BaseTest)
 │ └── test/resources # Test Configuration (testng.xml)
 ├── utils # Helper Classes (Screenshot_Utility)
@@ -33,6 +33,7 @@ Selenium-TestNG-Login-Automation
 ├── pom.xml # Maven Dependencies
 └── README.md # Project Documentation
 
-**Markdown**
 ## Execution Screenshot
-![Login Success ] (utils/Login%20Success.png)
+![Login Success](utils/Login%20Success.png)
+
+
