@@ -20,3 +20,19 @@ This project automates the **Login Functionality** of a web application to ensur
 1. Clone or Download this repository.
 2. Import the project into Eclipse IDE.
 3. Right-click on `testng.xml` and select **Run As -> TestNG Suite**.
+
+### Project Structure
+```text
+Selenium-TestNG-Login-Automation
+├── src
+│ ├── main/java/pages # Page Object Classes (LoginPage, Page_Class)
+│ ├── test/java/tests # Test Scripts (Tests, BaseTest)
+│ └── test/resources # Test Configuration (testng.xml)
+├── utils # Helper Classes (Screenshot_Utility)
+├── screenshots # Execution Screenshots
+├── pom.xml # Maven Dependencies
+└── README.md # Project Documentation
+
+**Markdown**
+## Execution Screenshot
+![Login Success ] (utils/Login%20Success.png)
