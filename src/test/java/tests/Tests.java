@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 		    @Test
 		    public void validLogin() throws Exception {
 		        LoginPage lp = new LoginPage(driver);
-		        lp.login("standard_user","secret_sauce1");
+		        lp.login("standard_user","secret_sauce");
 		        String expected = "Swag Labs";
 		        Thread.sleep(3000);
 		        String actual = driver.getTitle();
