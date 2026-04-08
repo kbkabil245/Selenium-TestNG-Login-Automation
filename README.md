@@ -36,4 +36,12 @@ Selenium-TestNG-Login-Automation
 ## Execution Screenshot
 ![Login Success](utils/Login%20Success.png)
 
+### Project Layout
+Below is the organized structure of this automation framework:
+1. **src/** - Contains all the core Java source code (Pages and Test Scripts).
+2. **utils/** - Helper classes for common tasks like taking screenshots.
+3. **Reports/** - Test execution results and HTML reports for stakeholders.
+4. **pom.xml** - Maven configuration file for managing dependencies.
+5. **testng.xml** - Test suite configuration (located in `src/test/resources`).
+6. **README.md** - Project documentation and setup guide.
 
