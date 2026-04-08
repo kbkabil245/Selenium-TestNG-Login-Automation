@@ -22,6 +22,7 @@ This project automates the **Login Functionality** of a web application to ensur
 3. Right-click on `testng.xml` and select **Run As -> TestNG Suite**.
 
 ### Project Structure
+```Text
 Selenium-TestNG-Login-Automation
 ├── 📂 Reports
 │ ├── README.md
