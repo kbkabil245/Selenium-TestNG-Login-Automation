@@ -53,7 +53,6 @@ Selenium-TestNG-Login-Automation
 ### Failure Scenario
 ![Login Failure](utils/Login_Failed.png)
 
-```
 ### Project Layout
 Below is the organized structure of this automation framework:
 
