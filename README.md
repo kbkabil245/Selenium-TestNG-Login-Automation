@@ -52,6 +52,7 @@ Selenium-TestNG-Login-Automation
 ```
 ![Login_Failed](utils/Login%20Failed.png)
 
+```
 ### Project Layout
 Below is the organized structure of this automation framework:
 
