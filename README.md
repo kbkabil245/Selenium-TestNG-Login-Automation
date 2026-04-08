@@ -47,11 +47,9 @@ Selenium-TestNG-Login-Automation
 
 ```
 ## Execution Screenshot
-![Login Success](utils/Login%20Success.png)
+![Login Success](./utils/Login%20Success.png)
 
-```
-### Failure Scenario
-![Login Failure](https://github.com/kbkabil245/Selenium-TestNG-Login-Automation/blob/main/utils/Login%20Failed.png?raw=true)
+![Login Failure](./utils/Login%20Failed.png)
 ```
 
 ### Project Layout
