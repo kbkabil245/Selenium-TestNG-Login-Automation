@@ -1,10 +1,9 @@
 package selenium_project;
 
 import org.openqa.selenium.*;
-
+  
 public class Page_Class {
 
-	public class LoginPage {
 
 	    WebDriver driver;
 
@@ -12,7 +11,7 @@ public class Page_Class {
 	    By password = By.id("password");
 	    By loginBtn = By.id("login");
 
-	    public LoginPage(WebDriver driver) {
+	    public Page_Class(WebDriver driver) {
 	        this.driver = driver;
 	    }
 
@@ -29,4 +28,4 @@ public class Page_Class {
 	    }
 	}
 
-	}
+
