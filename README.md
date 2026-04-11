@@ -47,10 +47,12 @@ Selenium-TestNG-Login-Automation
 
 ```
 ## Execution Screenshot
-## Login Success Screenshot
+## Positive Scenario (Login Success)
 ![Login Success](./utils/Login%20Success.png)
-## Login Failure Screenshot
+## Negative Scenario (Login Failure)
 ![Login Failure](./utils/Login%20Failed.png)
+## Execution Report
+![Execution Report](./utils/Execution%20Report.png)
 
 ```
 ### Project Layout
