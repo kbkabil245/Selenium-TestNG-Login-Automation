@@ -39,6 +39,8 @@ Selenium-TestNG-Login-Automation
 │ └── testng.xml # Test Suite Configuration
 ├── 📂 utils
 │ ├── Login Success.png # Execution Screenshot
+│ └── Login Failed.png
+│ └── Execution Report
 │ └── Screenshot_Utility.java # Reusable Utility Code
 ├── 📄 .gitignore
 ├── 📄 LICENSE
